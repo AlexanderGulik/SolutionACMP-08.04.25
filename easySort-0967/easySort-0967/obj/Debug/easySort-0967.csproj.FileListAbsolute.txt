@@ -1,0 +1,7 @@
+C:\CStrain2\easySort-0967\easySort-0967\bin\Debug\easySort-0967.exe.config
+C:\CStrain2\easySort-0967\easySort-0967\bin\Debug\easySort-0967.exe
+C:\CStrain2\easySort-0967\easySort-0967\bin\Debug\easySort-0967.pdb
+C:\CStrain2\easySort-0967\easySort-0967\obj\Debug\easySort-0967.csproj.AssemblyReference.cache
+C:\CStrain2\easySort-0967\easySort-0967\obj\Debug\easySort-0967.csproj.CoreCompileInputs.cache
+C:\CStrain2\easySort-0967\easySort-0967\obj\Debug\easySort-0967.exe
+C:\CStrain2\easySort-0967\easySort-0967\obj\Debug\easySort-0967.pdb

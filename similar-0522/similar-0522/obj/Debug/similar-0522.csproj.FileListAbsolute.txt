@@ -1,0 +1,7 @@
+C:\CStrain2\similar-0522\similar-0522\bin\Debug\similar-0522.exe.config
+C:\CStrain2\similar-0522\similar-0522\bin\Debug\similar-0522.exe
+C:\CStrain2\similar-0522\similar-0522\bin\Debug\similar-0522.pdb
+C:\CStrain2\similar-0522\similar-0522\obj\Debug\similar-0522.csproj.AssemblyReference.cache
+C:\CStrain2\similar-0522\similar-0522\obj\Debug\similar-0522.csproj.CoreCompileInputs.cache
+C:\CStrain2\similar-0522\similar-0522\obj\Debug\similar-0522.exe
+C:\CStrain2\similar-0522\similar-0522\obj\Debug\similar-0522.pdb

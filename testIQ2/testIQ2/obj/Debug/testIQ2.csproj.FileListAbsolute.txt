@@ -1,0 +1,7 @@
+C:\CStrain2\testIQ2\testIQ2\bin\Debug\testIQ2.exe.config
+C:\CStrain2\testIQ2\testIQ2\bin\Debug\testIQ2.exe
+C:\CStrain2\testIQ2\testIQ2\bin\Debug\testIQ2.pdb
+C:\CStrain2\testIQ2\testIQ2\obj\Debug\testIQ2.csproj.AssemblyReference.cache
+C:\CStrain2\testIQ2\testIQ2\obj\Debug\testIQ2.csproj.CoreCompileInputs.cache
+C:\CStrain2\testIQ2\testIQ2\obj\Debug\testIQ2.exe
+C:\CStrain2\testIQ2\testIQ2\obj\Debug\testIQ2.pdb

@@ -1,0 +1,7 @@
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\bin\Debug\GidtFoFatherFrozz-0317.exe.config
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\bin\Debug\GidtFoFatherFrozz-0317.exe
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\bin\Debug\GidtFoFatherFrozz-0317.pdb
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\obj\Debug\GidtFoFatherFrozz-0317.csproj.AssemblyReference.cache
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\obj\Debug\GidtFoFatherFrozz-0317.csproj.CoreCompileInputs.cache
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\obj\Debug\GidtFoFatherFrozz-0317.exe
+C:\CStrain2\GidtFoFatherFrozz-0317\GidtFoFatherFrozz-0317\obj\Debug\GidtFoFatherFrozz-0317.pdb

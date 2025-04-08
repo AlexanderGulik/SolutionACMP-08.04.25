@@ -1,0 +1,7 @@
+C:\CStrain2\runeWord-0283\runeWord-0283\bin\Debug\runeWord-0283.exe.config
+C:\CStrain2\runeWord-0283\runeWord-0283\bin\Debug\runeWord-0283.exe
+C:\CStrain2\runeWord-0283\runeWord-0283\bin\Debug\runeWord-0283.pdb
+C:\CStrain2\runeWord-0283\runeWord-0283\obj\Debug\runeWord-0283.csproj.AssemblyReference.cache
+C:\CStrain2\runeWord-0283\runeWord-0283\obj\Debug\runeWord-0283.csproj.CoreCompileInputs.cache
+C:\CStrain2\runeWord-0283\runeWord-0283\obj\Debug\runeWord-0283.exe
+C:\CStrain2\runeWord-0283\runeWord-0283\obj\Debug\runeWord-0283.pdb

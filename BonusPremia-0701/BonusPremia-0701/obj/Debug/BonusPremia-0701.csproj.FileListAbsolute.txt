@@ -1,0 +1,7 @@
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\bin\Debug\BonusPremia-0701.exe.config
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\bin\Debug\BonusPremia-0701.exe
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\bin\Debug\BonusPremia-0701.pdb
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\obj\Debug\BonusPremia-0701.csproj.AssemblyReference.cache
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\obj\Debug\BonusPremia-0701.csproj.CoreCompileInputs.cache
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\obj\Debug\BonusPremia-0701.exe
+C:\CStrain2\BonusPremia-0701\BonusPremia-0701\obj\Debug\BonusPremia-0701.pdb

@@ -1,0 +1,7 @@
+C:\CStrain2\trafficLights-0124\trafficLights-0124\bin\Debug\trafficLights-0124.exe.config
+C:\CStrain2\trafficLights-0124\trafficLights-0124\bin\Debug\trafficLights-0124.exe
+C:\CStrain2\trafficLights-0124\trafficLights-0124\bin\Debug\trafficLights-0124.pdb
+C:\CStrain2\trafficLights-0124\trafficLights-0124\obj\Debug\trafficLights-0124.csproj.AssemblyReference.cache
+C:\CStrain2\trafficLights-0124\trafficLights-0124\obj\Debug\trafficLights-0124.csproj.CoreCompileInputs.cache
+C:\CStrain2\trafficLights-0124\trafficLights-0124\obj\Debug\trafficLights-0124.exe
+C:\CStrain2\trafficLights-0124\trafficLights-0124\obj\Debug\trafficLights-0124.pdb

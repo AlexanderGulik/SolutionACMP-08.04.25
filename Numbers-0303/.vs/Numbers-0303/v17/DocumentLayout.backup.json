@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\Numbers-0303\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156CB56F-8CE2-4281-874A-7035B58BCFB7}|Numbers-0303\\Numbers-0303.csproj|c:\\cstrain2\\numbers-0303\\numbers-0303\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CB56F-8CE2-4281-874A-7035B58BCFB7}|Numbers-0303\\Numbers-0303.csproj|solutionrelative:numbers-0303\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\Numbers-0303\\Numbers-0303\\Program.cs",
+              "RelativeDocumentMoniker": "Numbers-0303\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\Numbers-0303\\Numbers-0303\\Program.cs",
+              "RelativeToolTip": "Numbers-0303\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:33:45.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

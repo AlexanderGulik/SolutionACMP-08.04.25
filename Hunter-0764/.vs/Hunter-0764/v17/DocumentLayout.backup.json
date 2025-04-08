@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\Hunter-0764\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F187252-371A-4B81-9941-E07538907DB9}|Hunter-0764\\Hunter-0764.csproj|c:\\cstrain2\\hunter-0764\\hunter-0764\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F187252-371A-4B81-9941-E07538907DB9}|Hunter-0764\\Hunter-0764.csproj|solutionrelative:hunter-0764\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\Hunter-0764\\Hunter-0764\\Program.cs",
+              "RelativeDocumentMoniker": "Hunter-0764\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\Hunter-0764\\Hunter-0764\\Program.cs",
+              "RelativeToolTip": "Hunter-0764\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:29:07.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

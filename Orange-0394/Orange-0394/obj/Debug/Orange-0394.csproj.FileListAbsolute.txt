@@ -1,0 +1,7 @@
+C:\CStrain2\Orange-0394\Orange-0394\bin\Debug\Orange-0394.exe.config
+C:\CStrain2\Orange-0394\Orange-0394\bin\Debug\Orange-0394.exe
+C:\CStrain2\Orange-0394\Orange-0394\bin\Debug\Orange-0394.pdb
+C:\CStrain2\Orange-0394\Orange-0394\obj\Debug\Orange-0394.csproj.AssemblyReference.cache
+C:\CStrain2\Orange-0394\Orange-0394\obj\Debug\Orange-0394.csproj.CoreCompileInputs.cache
+C:\CStrain2\Orange-0394\Orange-0394\obj\Debug\Orange-0394.exe
+C:\CStrain2\Orange-0394\Orange-0394\obj\Debug\Orange-0394.pdb

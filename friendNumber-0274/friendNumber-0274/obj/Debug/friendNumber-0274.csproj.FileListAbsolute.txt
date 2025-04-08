@@ -1,0 +1,7 @@
+C:\CStrain2\friendNumber-0274\friendNumber-0274\bin\Debug\friendNumber-0274.exe.config
+C:\CStrain2\friendNumber-0274\friendNumber-0274\bin\Debug\friendNumber-0274.exe
+C:\CStrain2\friendNumber-0274\friendNumber-0274\bin\Debug\friendNumber-0274.pdb
+C:\CStrain2\friendNumber-0274\friendNumber-0274\obj\Debug\friendNumber-0274.csproj.AssemblyReference.cache
+C:\CStrain2\friendNumber-0274\friendNumber-0274\obj\Debug\friendNumber-0274.csproj.CoreCompileInputs.cache
+C:\CStrain2\friendNumber-0274\friendNumber-0274\obj\Debug\friendNumber-0274.exe
+C:\CStrain2\friendNumber-0274\friendNumber-0274\obj\Debug\friendNumber-0274.pdb

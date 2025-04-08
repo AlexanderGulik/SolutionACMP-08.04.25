@@ -1,0 +1,7 @@
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\obj\Debug\easyCalculation-0059.csproj.AssemblyReference.cache
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\obj\Debug\easyCalculation-0059.csproj.CoreCompileInputs.cache
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\bin\Debug\easyCalculation-0059.exe.config
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\bin\Debug\easyCalculation-0059.exe
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\bin\Debug\easyCalculation-0059.pdb
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\obj\Debug\easyCalculation-0059.exe
+C:\CStrain2\easyCalculation-0059\easyCalculation-0059\obj\Debug\easyCalculation-0059.pdb

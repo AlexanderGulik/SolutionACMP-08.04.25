@@ -1,0 +1,7 @@
+C:\CStrain2\Anagramma-0847\Anagramma-0847\bin\Debug\Anagramma-0847.exe.config
+C:\CStrain2\Anagramma-0847\Anagramma-0847\bin\Debug\Anagramma-0847.exe
+C:\CStrain2\Anagramma-0847\Anagramma-0847\bin\Debug\Anagramma-0847.pdb
+C:\CStrain2\Anagramma-0847\Anagramma-0847\obj\Debug\Anagramma-0847.csproj.AssemblyReference.cache
+C:\CStrain2\Anagramma-0847\Anagramma-0847\obj\Debug\Anagramma-0847.csproj.CoreCompileInputs.cache
+C:\CStrain2\Anagramma-0847\Anagramma-0847\obj\Debug\Anagramma-0847.exe
+C:\CStrain2\Anagramma-0847\Anagramma-0847\obj\Debug\Anagramma-0847.pdb

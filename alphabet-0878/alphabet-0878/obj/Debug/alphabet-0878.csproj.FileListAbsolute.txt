@@ -1,0 +1,7 @@
+C:\CStrain2\alphabet-0878\alphabet-0878\bin\Debug\alphabet-0878.exe.config
+C:\CStrain2\alphabet-0878\alphabet-0878\bin\Debug\alphabet-0878.exe
+C:\CStrain2\alphabet-0878\alphabet-0878\bin\Debug\alphabet-0878.pdb
+C:\CStrain2\alphabet-0878\alphabet-0878\obj\Debug\alphabet-0878.csproj.AssemblyReference.cache
+C:\CStrain2\alphabet-0878\alphabet-0878\obj\Debug\alphabet-0878.csproj.CoreCompileInputs.cache
+C:\CStrain2\alphabet-0878\alphabet-0878\obj\Debug\alphabet-0878.exe
+C:\CStrain2\alphabet-0878\alphabet-0878\obj\Debug\alphabet-0878.pdb

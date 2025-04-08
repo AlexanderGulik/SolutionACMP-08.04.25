@@ -1,0 +1,7 @@
+C:\CStrain2\OptBuy-0520\OptBuy-0520\bin\Debug\OptBuy-0520.exe.config
+C:\CStrain2\OptBuy-0520\OptBuy-0520\bin\Debug\OptBuy-0520.exe
+C:\CStrain2\OptBuy-0520\OptBuy-0520\bin\Debug\OptBuy-0520.pdb
+C:\CStrain2\OptBuy-0520\OptBuy-0520\obj\Debug\OptBuy-0520.csproj.AssemblyReference.cache
+C:\CStrain2\OptBuy-0520\OptBuy-0520\obj\Debug\OptBuy-0520.csproj.CoreCompileInputs.cache
+C:\CStrain2\OptBuy-0520\OptBuy-0520\obj\Debug\OptBuy-0520.exe
+C:\CStrain2\OptBuy-0520\OptBuy-0520\obj\Debug\OptBuy-0520.pdb

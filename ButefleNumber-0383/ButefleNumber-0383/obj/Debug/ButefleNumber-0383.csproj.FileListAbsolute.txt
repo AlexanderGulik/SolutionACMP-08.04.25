@@ -1,0 +1,7 @@
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\bin\Debug\ButefleNumber-0383.exe.config
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\bin\Debug\ButefleNumber-0383.exe
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\bin\Debug\ButefleNumber-0383.pdb
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\obj\Debug\ButefleNumber-0383.csproj.AssemblyReference.cache
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\obj\Debug\ButefleNumber-0383.csproj.CoreCompileInputs.cache
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\obj\Debug\ButefleNumber-0383.exe
+C:\CStrain2\ButefleNumber-0383\ButefleNumber-0383\obj\Debug\ButefleNumber-0383.pdb

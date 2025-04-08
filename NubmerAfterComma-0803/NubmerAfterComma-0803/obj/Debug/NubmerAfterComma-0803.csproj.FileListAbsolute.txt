@@ -1,0 +1,7 @@
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\bin\Debug\NubmerAfterComma-0803.exe.config
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\bin\Debug\NubmerAfterComma-0803.exe
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\bin\Debug\NubmerAfterComma-0803.pdb
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\obj\Debug\NubmerAfterComma-0803.csproj.AssemblyReference.cache
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\obj\Debug\NubmerAfterComma-0803.csproj.CoreCompileInputs.cache
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\obj\Debug\NubmerAfterComma-0803.exe
+C:\CStrain2\NubmerAfterComma-0803\NubmerAfterComma-0803\obj\Debug\NubmerAfterComma-0803.pdb

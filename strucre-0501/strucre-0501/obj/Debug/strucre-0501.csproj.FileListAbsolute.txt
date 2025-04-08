@@ -1,0 +1,7 @@
+C:\CStrain2\strucre-0501\strucre-0501\bin\Debug\strucre-0501.exe.config
+C:\CStrain2\strucre-0501\strucre-0501\bin\Debug\strucre-0501.exe
+C:\CStrain2\strucre-0501\strucre-0501\bin\Debug\strucre-0501.pdb
+C:\CStrain2\strucre-0501\strucre-0501\obj\Debug\strucre-0501.csproj.AssemblyReference.cache
+C:\CStrain2\strucre-0501\strucre-0501\obj\Debug\strucre-0501.csproj.CoreCompileInputs.cache
+C:\CStrain2\strucre-0501\strucre-0501\obj\Debug\strucre-0501.exe
+C:\CStrain2\strucre-0501\strucre-0501\obj\Debug\strucre-0501.pdb

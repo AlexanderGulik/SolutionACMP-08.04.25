@@ -1,0 +1,7 @@
+C:\CStrain2\numerlog-0095\numerlog-0095\bin\Debug\numerlog-0095.exe.config
+C:\CStrain2\numerlog-0095\numerlog-0095\bin\Debug\numerlog-0095.exe
+C:\CStrain2\numerlog-0095\numerlog-0095\bin\Debug\numerlog-0095.pdb
+C:\CStrain2\numerlog-0095\numerlog-0095\obj\Debug\numerlog-0095.csproj.AssemblyReference.cache
+C:\CStrain2\numerlog-0095\numerlog-0095\obj\Debug\numerlog-0095.csproj.CoreCompileInputs.cache
+C:\CStrain2\numerlog-0095\numerlog-0095\obj\Debug\numerlog-0095.exe
+C:\CStrain2\numerlog-0095\numerlog-0095\obj\Debug\numerlog-0095.pdb

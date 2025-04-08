@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\transport-0760\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8365-C578-4FEB-9179-8947ABD9ADC3}|transport-0760\\transport-0760.csproj|c:\\cstrain2\\transport-0760\\transport-0760\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCA8365-C578-4FEB-9179-8947ABD9ADC3}|transport-0760\\transport-0760.csproj|solutionrelative:transport-0760\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\transport-0760\\transport-0760\\Program.cs",
+              "RelativeDocumentMoniker": "transport-0760\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\transport-0760\\transport-0760\\Program.cs*",
+              "RelativeToolTip": "transport-0760\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:23:54.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

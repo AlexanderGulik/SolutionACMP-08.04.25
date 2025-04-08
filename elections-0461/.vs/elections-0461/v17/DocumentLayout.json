@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\elections-0461\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F271259-EBBD-4D89-8564-71CC61E10F2C}|elections-0461\\elections-0461.csproj|c:\\cstrain2\\elections-0461\\elections-0461\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F271259-EBBD-4D89-8564-71CC61E10F2C}|elections-0461\\elections-0461.csproj|solutionrelative:elections-0461\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\elections-0461\\elections-0461\\Program.cs",
+              "RelativeDocumentMoniker": "elections-0461\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\elections-0461\\elections-0461\\Program.cs",
+              "RelativeToolTip": "elections-0461\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:37:25.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

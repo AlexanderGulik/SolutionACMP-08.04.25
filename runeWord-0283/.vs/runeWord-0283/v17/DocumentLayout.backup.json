@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\runeWord-0283\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A164369-CE7C-41B0-BACB-097352A41DCC}|runeWord-0283\\runeWord-0283.csproj|c:\\cstrain2\\runeword-0283\\runeword-0283\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A164369-CE7C-41B0-BACB-097352A41DCC}|runeWord-0283\\runeWord-0283.csproj|solutionrelative:runeword-0283\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\runeWord-0283\\runeWord-0283\\Program.cs",
+              "RelativeDocumentMoniker": "runeWord-0283\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\runeWord-0283\\runeWord-0283\\Program.cs*",
+              "RelativeToolTip": "runeWord-0283\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:36:48.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

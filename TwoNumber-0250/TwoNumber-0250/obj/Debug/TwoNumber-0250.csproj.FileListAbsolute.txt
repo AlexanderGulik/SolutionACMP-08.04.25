@@ -1,0 +1,7 @@
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\bin\Debug\TwoNumber-0250.exe.config
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\bin\Debug\TwoNumber-0250.exe
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\bin\Debug\TwoNumber-0250.pdb
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\obj\Debug\TwoNumber-0250.csproj.AssemblyReference.cache
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\obj\Debug\TwoNumber-0250.csproj.CoreCompileInputs.cache
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\obj\Debug\TwoNumber-0250.exe
+C:\CStrain2\TwoNumber-0250\TwoNumber-0250\obj\Debug\TwoNumber-0250.pdb

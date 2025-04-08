@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\PasyanOldSHapaklyak-0521\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\podmasiv-0284\\podmasiv-0284\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\Stringle-0822\\Stringle-0822\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\Perepis-0131\\Perepis-0131\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\NOD-0148\\NOD-0148\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\naperstki-0678\\naperstki-0678\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\kletki-0062\\kletki-0062\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\gamecub-0929\\gamecub-0929\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\brainbroken-0086\\brainbroken-0086\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CStrain\\timearrival-0331\\timearrival-0331\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBB74E-8B1F-4CD1-94A4-DC70EE2EA4C1}|PasyanOldSHapaklyak-0521\\PasyanOldSHapaklyak-0521.csproj|c:\\cstrain2\\pasyanoldshapaklyak-0521\\pasyanoldshapaklyak-0521\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EBB74E-8B1F-4CD1-94A4-DC70EE2EA4C1}|PasyanOldSHapaklyak-0521\\PasyanOldSHapaklyak-0521.csproj|solutionrelative:pasyanoldshapaklyak-0521\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\podmasiv-0284\\podmasiv-0284\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\podmasiv-0284\\podmasiv-0284\\Program.cs",
+              "ToolTip": "C:\\CStrain\\podmasiv-0284\\podmasiv-0284\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\podmasiv-0284\\podmasiv-0284\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:40:15.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\Stringle-0822\\Stringle-0822\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\Stringle-0822\\Stringle-0822\\Program.cs",
+              "ToolTip": "C:\\CStrain\\Stringle-0822\\Stringle-0822\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\Stringle-0822\\Stringle-0822\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:39:58.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\Perepis-0131\\Perepis-0131\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\Perepis-0131\\Perepis-0131\\Program.cs",
+              "ToolTip": "C:\\CStrain\\Perepis-0131\\Perepis-0131\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\Perepis-0131\\Perepis-0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:39:34.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\NOD-0148\\NOD-0148\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\NOD-0148\\NOD-0148\\Program.cs",
+              "ToolTip": "C:\\CStrain\\NOD-0148\\NOD-0148\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\NOD-0148\\NOD-0148\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:39:08.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\naperstki-0678\\naperstki-0678\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\naperstki-0678\\naperstki-0678\\Program.cs",
+              "ToolTip": "C:\\CStrain\\naperstki-0678\\naperstki-0678\\Program.cs*",
+              "RelativeToolTip": "..\\..\\CStrain\\naperstki-0678\\naperstki-0678\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:38:35.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\kletki-0062\\kletki-0062\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\kletki-0062\\kletki-0062\\Program.cs",
+              "ToolTip": "C:\\CStrain\\kletki-0062\\kletki-0062\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\kletki-0062\\kletki-0062\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:38:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\gamecub-0929\\gamecub-0929\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\gamecub-0929\\gamecub-0929\\Program.cs",
+              "ToolTip": "C:\\CStrain\\gamecub-0929\\gamecub-0929\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\gamecub-0929\\gamecub-0929\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:37:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\brainbroken-0086\\brainbroken-0086\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\brainbroken-0086\\brainbroken-0086\\Program.cs",
+              "ToolTip": "C:\\CStrain\\brainbroken-0086\\brainbroken-0086\\Program.cs*",
+              "RelativeToolTip": "..\\..\\CStrain\\brainbroken-0086\\brainbroken-0086\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:36:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain\\timearrival-0331\\timearrival-0331\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CStrain\\timearrival-0331\\timearrival-0331\\Program.cs",
+              "ToolTip": "C:\\CStrain\\timearrival-0331\\timearrival-0331\\Program.cs",
+              "RelativeToolTip": "..\\..\\CStrain\\timearrival-0331\\timearrival-0331\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:36:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\PasyanOldSHapaklyak-0521\\PasyanOldSHapaklyak-0521\\Program.cs",
+              "RelativeDocumentMoniker": "PasyanOldSHapaklyak-0521\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\PasyanOldSHapaklyak-0521\\PasyanOldSHapaklyak-0521\\Program.cs",
+              "RelativeToolTip": "PasyanOldSHapaklyak-0521\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:15:51.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

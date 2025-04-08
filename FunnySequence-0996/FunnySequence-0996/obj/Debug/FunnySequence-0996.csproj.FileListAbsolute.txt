@@ -1,0 +1,7 @@
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\bin\Debug\FunnySequence-0996.exe.config
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\bin\Debug\FunnySequence-0996.exe
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\bin\Debug\FunnySequence-0996.pdb
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\obj\Debug\FunnySequence-0996.csproj.AssemblyReference.cache
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\obj\Debug\FunnySequence-0996.csproj.CoreCompileInputs.cache
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\obj\Debug\FunnySequence-0996.exe
+C:\CStrain2\FunnySequence-0996\FunnySequence-0996\obj\Debug\FunnySequence-0996.pdb

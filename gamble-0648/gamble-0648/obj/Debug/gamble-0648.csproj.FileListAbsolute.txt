@@ -1,0 +1,7 @@
+C:\CStrain2\gamble-0648\gamble-0648\bin\Debug\gamble-0648.exe.config
+C:\CStrain2\gamble-0648\gamble-0648\bin\Debug\gamble-0648.exe
+C:\CStrain2\gamble-0648\gamble-0648\bin\Debug\gamble-0648.pdb
+C:\CStrain2\gamble-0648\gamble-0648\obj\Debug\gamble-0648.csproj.AssemblyReference.cache
+C:\CStrain2\gamble-0648\gamble-0648\obj\Debug\gamble-0648.csproj.CoreCompileInputs.cache
+C:\CStrain2\gamble-0648\gamble-0648\obj\Debug\gamble-0648.exe
+C:\CStrain2\gamble-0648\gamble-0648\obj\Debug\gamble-0648.pdb

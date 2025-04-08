@@ -1,0 +1,7 @@
+C:\CStrain2\keypad-0534\keypad-0534\bin\Debug\keypad-0534.exe.config
+C:\CStrain2\keypad-0534\keypad-0534\bin\Debug\keypad-0534.exe
+C:\CStrain2\keypad-0534\keypad-0534\bin\Debug\keypad-0534.pdb
+C:\CStrain2\keypad-0534\keypad-0534\obj\Debug\keypad-0534.csproj.AssemblyReference.cache
+C:\CStrain2\keypad-0534\keypad-0534\obj\Debug\keypad-0534.csproj.CoreCompileInputs.cache
+C:\CStrain2\keypad-0534\keypad-0534\obj\Debug\keypad-0534.exe
+C:\CStrain2\keypad-0534\keypad-0534\obj\Debug\keypad-0534.pdb

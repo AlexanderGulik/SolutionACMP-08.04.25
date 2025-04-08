@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\alphabet-0878\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB1FD4-C3CA-4AEC-9BF1-B263DD92D03C}|alphabet-0878\\alphabet-0878.csproj|c:\\cstrain2\\alphabet-0878\\alphabet-0878\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBB1FD4-C3CA-4AEC-9BF1-B263DD92D03C}|alphabet-0878\\alphabet-0878.csproj|solutionrelative:alphabet-0878\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\alphabet-0878\\alphabet-0878\\Program.cs",
+              "RelativeDocumentMoniker": "alphabet-0878\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\alphabet-0878\\alphabet-0878\\Program.cs*",
+              "RelativeToolTip": "alphabet-0878\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:01:30.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

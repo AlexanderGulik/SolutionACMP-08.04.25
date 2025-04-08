@@ -1,0 +1,7 @@
+C:\CStrain2\trap-0515\trap-0515\bin\Debug\trap-0515.exe.config
+C:\CStrain2\trap-0515\trap-0515\bin\Debug\trap-0515.exe
+C:\CStrain2\trap-0515\trap-0515\bin\Debug\trap-0515.pdb
+C:\CStrain2\trap-0515\trap-0515\obj\Debug\trap-0515.csproj.AssemblyReference.cache
+C:\CStrain2\trap-0515\trap-0515\obj\Debug\trap-0515.csproj.CoreCompileInputs.cache
+C:\CStrain2\trap-0515\trap-0515\obj\Debug\trap-0515.exe
+C:\CStrain2\trap-0515\trap-0515\obj\Debug\trap-0515.pdb

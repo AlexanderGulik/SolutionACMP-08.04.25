@@ -1,0 +1,7 @@
+C:\CStrain2\MinSystem-0315\MinSystem-0315\bin\Debug\MinSystem-0315.exe.config
+C:\CStrain2\MinSystem-0315\MinSystem-0315\bin\Debug\MinSystem-0315.exe
+C:\CStrain2\MinSystem-0315\MinSystem-0315\bin\Debug\MinSystem-0315.pdb
+C:\CStrain2\MinSystem-0315\MinSystem-0315\obj\Debug\MinSystem-0315.csproj.AssemblyReference.cache
+C:\CStrain2\MinSystem-0315\MinSystem-0315\obj\Debug\MinSystem-0315.csproj.CoreCompileInputs.cache
+C:\CStrain2\MinSystem-0315\MinSystem-0315\obj\Debug\MinSystem-0315.exe
+C:\CStrain2\MinSystem-0315\MinSystem-0315\obj\Debug\MinSystem-0315.pdb

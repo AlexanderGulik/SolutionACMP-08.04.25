@@ -1,0 +1,7 @@
+C:\CStrain2\clothes-0912\clothes-0912\bin\Debug\clothes-0912.exe.config
+C:\CStrain2\clothes-0912\clothes-0912\bin\Debug\clothes-0912.exe
+C:\CStrain2\clothes-0912\clothes-0912\bin\Debug\clothes-0912.pdb
+C:\CStrain2\clothes-0912\clothes-0912\obj\Debug\clothes-0912.csproj.AssemblyReference.cache
+C:\CStrain2\clothes-0912\clothes-0912\obj\Debug\clothes-0912.csproj.CoreCompileInputs.cache
+C:\CStrain2\clothes-0912\clothes-0912\obj\Debug\clothes-0912.exe
+C:\CStrain2\clothes-0912\clothes-0912\obj\Debug\clothes-0912.pdb

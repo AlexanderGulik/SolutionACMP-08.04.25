@@ -1,0 +1,7 @@
+C:\CStrain2\fire-0285\fire-0285\bin\Debug\fire-0285.exe.config
+C:\CStrain2\fire-0285\fire-0285\bin\Debug\fire-0285.exe
+C:\CStrain2\fire-0285\fire-0285\bin\Debug\fire-0285.pdb
+C:\CStrain2\fire-0285\fire-0285\obj\Debug\fire-0285.csproj.AssemblyReference.cache
+C:\CStrain2\fire-0285\fire-0285\obj\Debug\fire-0285.csproj.CoreCompileInputs.cache
+C:\CStrain2\fire-0285\fire-0285\obj\Debug\fire-0285.exe
+C:\CStrain2\fire-0285\fire-0285\obj\Debug\fire-0285.pdb

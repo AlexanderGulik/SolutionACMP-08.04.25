@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\Anagramma-0847\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE0AB3-8790-44DB-A643-4EE90CA4A1B5}|Anagramma-0847\\Anagramma-0847.csproj|c:\\cstrain2\\anagramma-0847\\anagramma-0847\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EE0AB3-8790-44DB-A643-4EE90CA4A1B5}|Anagramma-0847\\Anagramma-0847.csproj|solutionrelative:anagramma-0847\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\Anagramma-0847\\Anagramma-0847\\Program.cs",
+              "RelativeDocumentMoniker": "Anagramma-0847\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\Anagramma-0847\\Anagramma-0847\\Program.cs*",
+              "RelativeToolTip": "Anagramma-0847\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:25:54.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

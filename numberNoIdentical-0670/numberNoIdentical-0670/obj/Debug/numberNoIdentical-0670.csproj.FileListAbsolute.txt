@@ -1,0 +1,7 @@
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\bin\Debug\numberNoIdentical-0670.exe.config
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\bin\Debug\numberNoIdentical-0670.exe
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\bin\Debug\numberNoIdentical-0670.pdb
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\obj\Debug\numberNoIdentical-0670.csproj.AssemblyReference.cache
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\obj\Debug\numberNoIdentical-0670.csproj.CoreCompileInputs.cache
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\obj\Debug\numberNoIdentical-0670.exe
+C:\CStrain2\numberNoIdentical-0670\numberNoIdentical-0670\obj\Debug\numberNoIdentical-0670.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\PussyNum-0689\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F9E080-5FF7-4026-9099-DB7591E56381}|PussyNum-0689\\PussyNum-0689.csproj|c:\\cstrain2\\pussynum-0689\\pussynum-0689\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F9E080-5FF7-4026-9099-DB7591E56381}|PussyNum-0689\\PussyNum-0689.csproj|solutionrelative:pussynum-0689\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\PussyNum-0689\\PussyNum-0689\\Program.cs",
+              "RelativeDocumentMoniker": "PussyNum-0689\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\PussyNum-0689\\PussyNum-0689\\Program.cs",
+              "RelativeToolTip": "PussyNum-0689\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:14:00.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

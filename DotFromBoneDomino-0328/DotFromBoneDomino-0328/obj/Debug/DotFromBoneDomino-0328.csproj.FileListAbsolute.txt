@@ -1,0 +1,7 @@
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\bin\Debug\DotFromBoneDomino-0328.exe.config
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\bin\Debug\DotFromBoneDomino-0328.exe
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\bin\Debug\DotFromBoneDomino-0328.pdb
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\obj\Debug\DotFromBoneDomino-0328.csproj.AssemblyReference.cache
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\obj\Debug\DotFromBoneDomino-0328.csproj.CoreCompileInputs.cache
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\obj\Debug\DotFromBoneDomino-0328.exe
+C:\CStrain2\DotFromBoneDomino-0328\DotFromBoneDomino-0328\obj\Debug\DotFromBoneDomino-0328.pdb

@@ -1,0 +1,7 @@
+C:\CStrain2\House-0834\House-0834\bin\Debug\House-0834.exe.config
+C:\CStrain2\House-0834\House-0834\bin\Debug\House-0834.exe
+C:\CStrain2\House-0834\House-0834\bin\Debug\House-0834.pdb
+C:\CStrain2\House-0834\House-0834\obj\Debug\House-0834.csproj.AssemblyReference.cache
+C:\CStrain2\House-0834\House-0834\obj\Debug\House-0834.csproj.CoreCompileInputs.cache
+C:\CStrain2\House-0834\House-0834\obj\Debug\House-0834.exe
+C:\CStrain2\House-0834\House-0834\obj\Debug\House-0834.pdb

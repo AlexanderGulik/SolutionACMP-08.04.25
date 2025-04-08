@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\House-0834\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF040F2-F1EB-4263-8A11-4A8A31D2B0AB}|House-0834\\House-0834.csproj|c:\\cstrain2\\house-0834\\house-0834\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF040F2-F1EB-4263-8A11-4A8A31D2B0AB}|House-0834\\House-0834.csproj|solutionrelative:house-0834\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\House-0834\\House-0834\\Program.cs",
+              "RelativeDocumentMoniker": "House-0834\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\House-0834\\House-0834\\Program.cs*",
+              "RelativeToolTip": "House-0834\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:02:52.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

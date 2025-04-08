@@ -1,0 +1,7 @@
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\bin\Debug\ChessHorse-0416.exe.config
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\bin\Debug\ChessHorse-0416.exe
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\bin\Debug\ChessHorse-0416.pdb
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\obj\Debug\ChessHorse-0416.csproj.AssemblyReference.cache
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\obj\Debug\ChessHorse-0416.csproj.CoreCompileInputs.cache
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\obj\Debug\ChessHorse-0416.exe
+C:\CStrain2\ChessHorse-0416\ChessHorse-0416\obj\Debug\ChessHorse-0416.pdb

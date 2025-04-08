@@ -1,0 +1,7 @@
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\bin\Debug\ModuleSum-0579.exe.config
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\bin\Debug\ModuleSum-0579.exe
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\bin\Debug\ModuleSum-0579.pdb
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\obj\Debug\ModuleSum-0579.csproj.AssemblyReference.cache
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\obj\Debug\ModuleSum-0579.csproj.CoreCompileInputs.cache
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\obj\Debug\ModuleSum-0579.exe
+C:\CStrain2\ModuleSum-0579\ModuleSum-0579\obj\Debug\ModuleSum-0579.pdb

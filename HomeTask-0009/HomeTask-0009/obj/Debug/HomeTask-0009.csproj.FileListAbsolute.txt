@@ -1,0 +1,7 @@
+C:\CStrain2\HomeTask-0009\HomeTask-0009\bin\Debug\HomeTask-0009.exe.config
+C:\CStrain2\HomeTask-0009\HomeTask-0009\bin\Debug\HomeTask-0009.exe
+C:\CStrain2\HomeTask-0009\HomeTask-0009\bin\Debug\HomeTask-0009.pdb
+C:\CStrain2\HomeTask-0009\HomeTask-0009\obj\Debug\HomeTask-0009.csproj.AssemblyReference.cache
+C:\CStrain2\HomeTask-0009\HomeTask-0009\obj\Debug\HomeTask-0009.csproj.CoreCompileInputs.cache
+C:\CStrain2\HomeTask-0009\HomeTask-0009\obj\Debug\HomeTask-0009.exe
+C:\CStrain2\HomeTask-0009\HomeTask-0009\obj\Debug\HomeTask-0009.pdb

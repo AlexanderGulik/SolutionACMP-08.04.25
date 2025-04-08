@@ -1,0 +1,7 @@
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\bin\Debug\shiftPermutation-0392.exe.config
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\bin\Debug\shiftPermutation-0392.exe
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\bin\Debug\shiftPermutation-0392.pdb
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\obj\Debug\shiftPermutation-0392.csproj.AssemblyReference.cache
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\obj\Debug\shiftPermutation-0392.csproj.CoreCompileInputs.cache
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\obj\Debug\shiftPermutation-0392.exe
+C:\CStrain2\shiftPermutation-0392\shiftPermutation-0392\obj\Debug\shiftPermutation-0392.pdb

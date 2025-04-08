@@ -1,0 +1,7 @@
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\bin\Debug\aftomorfDigit-0785.exe.config
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\bin\Debug\aftomorfDigit-0785.exe
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\bin\Debug\aftomorfDigit-0785.pdb
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\obj\Debug\aftomorfDigit-0785.csproj.AssemblyReference.cache
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\obj\Debug\aftomorfDigit-0785.csproj.CoreCompileInputs.cache
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\obj\Debug\aftomorfDigit-0785.exe
+C:\CStrain2\aftomorfDigit-0785\aftomorfDigit-0785\obj\Debug\aftomorfDigit-0785.pdb

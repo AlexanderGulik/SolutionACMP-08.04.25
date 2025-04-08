@@ -1,0 +1,7 @@
+C:\CStrain2\TopCoder-0639\TopCoder-0639\bin\Debug\TopCoder-0639.exe.config
+C:\CStrain2\TopCoder-0639\TopCoder-0639\bin\Debug\TopCoder-0639.exe
+C:\CStrain2\TopCoder-0639\TopCoder-0639\bin\Debug\TopCoder-0639.pdb
+C:\CStrain2\TopCoder-0639\TopCoder-0639\obj\Debug\TopCoder-0639.csproj.AssemblyReference.cache
+C:\CStrain2\TopCoder-0639\TopCoder-0639\obj\Debug\TopCoder-0639.csproj.CoreCompileInputs.cache
+C:\CStrain2\TopCoder-0639\TopCoder-0639\obj\Debug\TopCoder-0639.exe
+C:\CStrain2\TopCoder-0639\TopCoder-0639\obj\Debug\TopCoder-0639.pdb

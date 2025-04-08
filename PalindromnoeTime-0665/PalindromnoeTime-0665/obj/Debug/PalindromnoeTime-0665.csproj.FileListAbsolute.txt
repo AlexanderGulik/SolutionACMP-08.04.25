@@ -1,0 +1,7 @@
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\bin\Debug\PalindromnoeTime-0665.exe.config
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\bin\Debug\PalindromnoeTime-0665.exe
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\bin\Debug\PalindromnoeTime-0665.pdb
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\obj\Debug\PalindromnoeTime-0665.csproj.AssemblyReference.cache
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\obj\Debug\PalindromnoeTime-0665.csproj.CoreCompileInputs.cache
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\obj\Debug\PalindromnoeTime-0665.exe
+C:\CStrain2\PalindromnoeTime-0665\PalindromnoeTime-0665\obj\Debug\PalindromnoeTime-0665.pdb

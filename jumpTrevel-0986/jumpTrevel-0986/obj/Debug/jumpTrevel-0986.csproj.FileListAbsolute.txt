@@ -1,0 +1,7 @@
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\bin\Debug\jumpTrevel-0986.exe.config
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\bin\Debug\jumpTrevel-0986.exe
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\bin\Debug\jumpTrevel-0986.pdb
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\obj\Debug\jumpTrevel-0986.csproj.AssemblyReference.cache
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\obj\Debug\jumpTrevel-0986.csproj.CoreCompileInputs.cache
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\obj\Debug\jumpTrevel-0986.exe
+C:\CStrain2\jumpTrevel-0986\jumpTrevel-0986\obj\Debug\jumpTrevel-0986.pdb

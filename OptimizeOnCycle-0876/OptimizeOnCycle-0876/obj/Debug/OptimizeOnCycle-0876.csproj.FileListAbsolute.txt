@@ -1,0 +1,7 @@
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\bin\Debug\OptimizeOnCycle-0876.exe.config
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\bin\Debug\OptimizeOnCycle-0876.exe
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\bin\Debug\OptimizeOnCycle-0876.pdb
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\obj\Debug\OptimizeOnCycle-0876.csproj.AssemblyReference.cache
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\obj\Debug\OptimizeOnCycle-0876.csproj.CoreCompileInputs.cache
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\obj\Debug\OptimizeOnCycle-0876.exe
+C:\CStrain2\OptimizeOnCycle-0876\OptimizeOnCycle-0876\obj\Debug\OptimizeOnCycle-0876.pdb

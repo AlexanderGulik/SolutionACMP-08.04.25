@@ -1,0 +1,7 @@
+C:\CStrain2\elections-0461\elections-0461\bin\Debug\elections-0461.exe.config
+C:\CStrain2\elections-0461\elections-0461\bin\Debug\elections-0461.exe
+C:\CStrain2\elections-0461\elections-0461\bin\Debug\elections-0461.pdb
+C:\CStrain2\elections-0461\elections-0461\obj\Debug\elections-0461.csproj.AssemblyReference.cache
+C:\CStrain2\elections-0461\elections-0461\obj\Debug\elections-0461.csproj.CoreCompileInputs.cache
+C:\CStrain2\elections-0461\elections-0461\obj\Debug\elections-0461.exe
+C:\CStrain2\elections-0461\elections-0461\obj\Debug\elections-0461.pdb

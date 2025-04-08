@@ -1,0 +1,7 @@
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\bin\Debug\timeWhithFight-0253.exe.config
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\bin\Debug\timeWhithFight-0253.exe
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\bin\Debug\timeWhithFight-0253.pdb
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\obj\Debug\timeWhithFight-0253.csproj.AssemblyReference.cache
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\obj\Debug\timeWhithFight-0253.csproj.CoreCompileInputs.cache
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\obj\Debug\timeWhithFight-0253.exe
+C:\CStrain2\timeWhithFight-0253\timeWhithFight-0253\obj\Debug\timeWhithFight-0253.pdb

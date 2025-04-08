@@ -1,0 +1,7 @@
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\bin\Debug\KSurprizeNumber-0309.exe.config
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\bin\Debug\KSurprizeNumber-0309.exe
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\bin\Debug\KSurprizeNumber-0309.pdb
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\obj\Debug\KSurprizeNumber-0309.csproj.AssemblyReference.cache
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\obj\Debug\KSurprizeNumber-0309.csproj.CoreCompileInputs.cache
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\obj\Debug\KSurprizeNumber-0309.exe
+C:\CStrain2\KSurprizeNumber-0309\KSurprizeNumber-0309\obj\Debug\KSurprizeNumber-0309.pdb

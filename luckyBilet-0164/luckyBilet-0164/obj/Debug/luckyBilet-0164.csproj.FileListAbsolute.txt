@@ -1,0 +1,7 @@
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\bin\Debug\luckyBilet-0164.exe.config
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\bin\Debug\luckyBilet-0164.exe
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\bin\Debug\luckyBilet-0164.pdb
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\obj\Debug\luckyBilet-0164.csproj.AssemblyReference.cache
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\obj\Debug\luckyBilet-0164.csproj.CoreCompileInputs.cache
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\obj\Debug\luckyBilet-0164.exe
+C:\CStrain2\luckyBilet-0164\luckyBilet-0164\obj\Debug\luckyBilet-0164.pdb

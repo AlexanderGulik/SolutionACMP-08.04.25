@@ -1,0 +1,7 @@
+C:\CStrain2\BussTwo-0667\BussTwo-0667\bin\Debug\BussTwo-0667.exe.config
+C:\CStrain2\BussTwo-0667\BussTwo-0667\bin\Debug\BussTwo-0667.exe
+C:\CStrain2\BussTwo-0667\BussTwo-0667\bin\Debug\BussTwo-0667.pdb
+C:\CStrain2\BussTwo-0667\BussTwo-0667\obj\Debug\BussTwo-0667.csproj.AssemblyReference.cache
+C:\CStrain2\BussTwo-0667\BussTwo-0667\obj\Debug\BussTwo-0667.csproj.CoreCompileInputs.cache
+C:\CStrain2\BussTwo-0667\BussTwo-0667\obj\Debug\BussTwo-0667.exe
+C:\CStrain2\BussTwo-0667\BussTwo-0667\obj\Debug\BussTwo-0667.pdb

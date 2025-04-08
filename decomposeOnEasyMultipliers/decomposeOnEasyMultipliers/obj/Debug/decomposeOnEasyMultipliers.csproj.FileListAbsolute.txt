@@ -1,0 +1,7 @@
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\bin\Debug\decomposeOnEasyMultipliers.exe.config
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\bin\Debug\decomposeOnEasyMultipliers.exe
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\bin\Debug\decomposeOnEasyMultipliers.pdb
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\obj\Debug\decomposeOnEasyMultipliers.csproj.AssemblyReference.cache
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\obj\Debug\decomposeOnEasyMultipliers.csproj.CoreCompileInputs.cache
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\obj\Debug\decomposeOnEasyMultipliers.exe
+C:\CStrain2\decomposeOnEasyMultipliers\decomposeOnEasyMultipliers\obj\Debug\decomposeOnEasyMultipliers.pdb

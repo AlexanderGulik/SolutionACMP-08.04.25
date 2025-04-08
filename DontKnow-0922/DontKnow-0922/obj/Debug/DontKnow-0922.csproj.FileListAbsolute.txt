@@ -1,0 +1,7 @@
+C:\CStrain2\DontKnow-0922\DontKnow-0922\bin\Debug\DontKnow-0922.exe.config
+C:\CStrain2\DontKnow-0922\DontKnow-0922\bin\Debug\DontKnow-0922.exe
+C:\CStrain2\DontKnow-0922\DontKnow-0922\bin\Debug\DontKnow-0922.pdb
+C:\CStrain2\DontKnow-0922\DontKnow-0922\obj\Debug\DontKnow-0922.csproj.AssemblyReference.cache
+C:\CStrain2\DontKnow-0922\DontKnow-0922\obj\Debug\DontKnow-0922.csproj.CoreCompileInputs.cache
+C:\CStrain2\DontKnow-0922\DontKnow-0922\obj\Debug\DontKnow-0922.exe
+C:\CStrain2\DontKnow-0922\DontKnow-0922\obj\Debug\DontKnow-0922.pdb

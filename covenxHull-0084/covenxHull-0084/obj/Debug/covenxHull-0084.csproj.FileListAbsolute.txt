@@ -1,0 +1,7 @@
+C:\CStrain2\covenxHull-0084\covenxHull-0084\bin\Debug\covenxHull-0084.exe.config
+C:\CStrain2\covenxHull-0084\covenxHull-0084\bin\Debug\covenxHull-0084.exe
+C:\CStrain2\covenxHull-0084\covenxHull-0084\bin\Debug\covenxHull-0084.pdb
+C:\CStrain2\covenxHull-0084\covenxHull-0084\obj\Debug\covenxHull-0084.csproj.AssemblyReference.cache
+C:\CStrain2\covenxHull-0084\covenxHull-0084\obj\Debug\covenxHull-0084.csproj.CoreCompileInputs.cache
+C:\CStrain2\covenxHull-0084\covenxHull-0084\obj\Debug\covenxHull-0084.exe
+C:\CStrain2\covenxHull-0084\covenxHull-0084\obj\Debug\covenxHull-0084.pdb

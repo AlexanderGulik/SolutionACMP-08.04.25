@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\annagramm-0574\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6210EA76-4DE1-49A9-BEB4-91CED4042B64}|annagramm-0574\\annagramm-0574.csproj|c:\\cstrain2\\annagramm-0574\\annagramm-0574\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6210EA76-4DE1-49A9-BEB4-91CED4042B64}|annagramm-0574\\annagramm-0574.csproj|solutionrelative:annagramm-0574\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\annagramm-0574\\annagramm-0574\\Program.cs",
+              "RelativeDocumentMoniker": "annagramm-0574\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\annagramm-0574\\annagramm-0574\\Program.cs",
+              "RelativeToolTip": "annagramm-0574\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:17:42.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\bin\Debug\StrangeLoratey-0641.exe.config
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\bin\Debug\StrangeLoratey-0641.exe
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\bin\Debug\StrangeLoratey-0641.pdb
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\obj\Debug\StrangeLoratey-0641.csproj.AssemblyReference.cache
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\obj\Debug\StrangeLoratey-0641.csproj.CoreCompileInputs.cache
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\obj\Debug\StrangeLoratey-0641.exe
+C:\CStrain2\StrangeLoratey-0641\StrangeLoratey-0641\obj\Debug\StrangeLoratey-0641.pdb

@@ -1,0 +1,7 @@
+C:\CStrain2\weighing-0762\weighing-0762\bin\Debug\weighing-0762.exe.config
+C:\CStrain2\weighing-0762\weighing-0762\bin\Debug\weighing-0762.exe
+C:\CStrain2\weighing-0762\weighing-0762\bin\Debug\weighing-0762.pdb
+C:\CStrain2\weighing-0762\weighing-0762\obj\Debug\weighing-0762.csproj.AssemblyReference.cache
+C:\CStrain2\weighing-0762\weighing-0762\obj\Debug\weighing-0762.csproj.CoreCompileInputs.cache
+C:\CStrain2\weighing-0762\weighing-0762\obj\Debug\weighing-0762.exe
+C:\CStrain2\weighing-0762\weighing-0762\obj\Debug\weighing-0762.pdb

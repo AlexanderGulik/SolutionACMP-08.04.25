@@ -1,0 +1,7 @@
+C:\CStrain2\transport-0760\transport-0760\bin\Debug\transport-0760.exe.config
+C:\CStrain2\transport-0760\transport-0760\bin\Debug\transport-0760.exe
+C:\CStrain2\transport-0760\transport-0760\bin\Debug\transport-0760.pdb
+C:\CStrain2\transport-0760\transport-0760\obj\Debug\transport-0760.csproj.AssemblyReference.cache
+C:\CStrain2\transport-0760\transport-0760\obj\Debug\transport-0760.csproj.CoreCompileInputs.cache
+C:\CStrain2\transport-0760\transport-0760\obj\Debug\transport-0760.exe
+C:\CStrain2\transport-0760\transport-0760\obj\Debug\transport-0760.pdb

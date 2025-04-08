@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\SumMinMax-0272\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A41C066-1BE5-4005-8DF0-0F552EBF4EDC}|SumMinMax-0272\\SumMinMax-0272.csproj|c:\\cstrain2\\summinmax-0272\\summinmax-0272\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A41C066-1BE5-4005-8DF0-0F552EBF4EDC}|SumMinMax-0272\\SumMinMax-0272.csproj|solutionrelative:summinmax-0272\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\SumMinMax-0272\\SumMinMax-0272\\Program.cs",
+              "RelativeDocumentMoniker": "SumMinMax-0272\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\SumMinMax-0272\\SumMinMax-0272\\Program.cs",
+              "RelativeToolTip": "SumMinMax-0272\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:31:05.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

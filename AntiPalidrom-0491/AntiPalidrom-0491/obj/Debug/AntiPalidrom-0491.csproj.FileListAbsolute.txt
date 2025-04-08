@@ -1,0 +1,7 @@
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\obj\Debug\AntiPalidrom-0491.csproj.AssemblyReference.cache
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\obj\Debug\AntiPalidrom-0491.csproj.CoreCompileInputs.cache
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\bin\Debug\AntiPalidrom-0491.exe.config
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\bin\Debug\AntiPalidrom-0491.exe
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\bin\Debug\AntiPalidrom-0491.pdb
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\obj\Debug\AntiPalidrom-0491.exe
+C:\CStrain2\AntiPalidrom-0491\AntiPalidrom-0491\obj\Debug\AntiPalidrom-0491.pdb

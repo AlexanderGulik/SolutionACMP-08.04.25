@@ -1,0 +1,7 @@
+C:\CStrain2\Inbus-0952\Inbus-0952\bin\Debug\Inbus-0952.exe.config
+C:\CStrain2\Inbus-0952\Inbus-0952\bin\Debug\Inbus-0952.exe
+C:\CStrain2\Inbus-0952\Inbus-0952\bin\Debug\Inbus-0952.pdb
+C:\CStrain2\Inbus-0952\Inbus-0952\obj\Debug\Inbus-0952.csproj.AssemblyReference.cache
+C:\CStrain2\Inbus-0952\Inbus-0952\obj\Debug\Inbus-0952.csproj.CoreCompileInputs.cache
+C:\CStrain2\Inbus-0952\Inbus-0952\obj\Debug\Inbus-0952.exe
+C:\CStrain2\Inbus-0952\Inbus-0952\obj\Debug\Inbus-0952.pdb

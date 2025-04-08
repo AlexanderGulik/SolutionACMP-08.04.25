@@ -1,0 +1,7 @@
+C:\CStrain2\ironRoad-0409\ironRoad-0409\bin\Debug\ironRoad-0409.exe.config
+C:\CStrain2\ironRoad-0409\ironRoad-0409\bin\Debug\ironRoad-0409.exe
+C:\CStrain2\ironRoad-0409\ironRoad-0409\bin\Debug\ironRoad-0409.pdb
+C:\CStrain2\ironRoad-0409\ironRoad-0409\obj\Debug\ironRoad-0409.csproj.AssemblyReference.cache
+C:\CStrain2\ironRoad-0409\ironRoad-0409\obj\Debug\ironRoad-0409.csproj.CoreCompileInputs.cache
+C:\CStrain2\ironRoad-0409\ironRoad-0409\obj\Debug\ironRoad-0409.exe
+C:\CStrain2\ironRoad-0409\ironRoad-0409\obj\Debug\ironRoad-0409.pdb

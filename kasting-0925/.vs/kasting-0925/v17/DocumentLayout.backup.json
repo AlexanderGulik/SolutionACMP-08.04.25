@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStrain2\\kasting-0925\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA5620-2529-4B57-82D7-E7E3BC65B733}|kasting-0925\\kasting-0925.csproj|c:\\cstrain2\\kasting-0925\\kasting-0925\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA5620-2529-4B57-82D7-E7E3BC65B733}|kasting-0925\\kasting-0925.csproj|solutionrelative:kasting-0925\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CStrain2\\kasting-0925\\kasting-0925\\Program.cs",
+              "RelativeDocumentMoniker": "kasting-0925\\Program.cs",
+              "ToolTip": "C:\\CStrain2\\kasting-0925\\kasting-0925\\Program.cs*",
+              "RelativeToolTip": "kasting-0925\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:35:03.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

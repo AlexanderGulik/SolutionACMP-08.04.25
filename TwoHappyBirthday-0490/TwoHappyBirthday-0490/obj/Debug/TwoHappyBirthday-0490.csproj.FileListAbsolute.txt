@@ -1,0 +1,7 @@
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\bin\Debug\TwoHappyBirthday-0490.exe.config
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\bin\Debug\TwoHappyBirthday-0490.exe
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\bin\Debug\TwoHappyBirthday-0490.pdb
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\obj\Debug\TwoHappyBirthday-0490.csproj.AssemblyReference.cache
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\obj\Debug\TwoHappyBirthday-0490.csproj.CoreCompileInputs.cache
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\obj\Debug\TwoHappyBirthday-0490.exe
+C:\CStrain2\TwoHappyBirthday-0490\TwoHappyBirthday-0490\obj\Debug\TwoHappyBirthday-0490.pdb

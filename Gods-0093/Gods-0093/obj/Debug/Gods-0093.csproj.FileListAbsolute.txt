@@ -1,0 +1,7 @@
+C:\CStrain2\Gods-0093\Gods-0093\obj\Debug\Gods-0093.csproj.AssemblyReference.cache
+C:\CStrain2\Gods-0093\Gods-0093\obj\Debug\Gods-0093.csproj.CoreCompileInputs.cache
+C:\CStrain2\Gods-0093\Gods-0093\bin\Debug\Gods-0093.exe.config
+C:\CStrain2\Gods-0093\Gods-0093\bin\Debug\Gods-0093.exe
+C:\CStrain2\Gods-0093\Gods-0093\bin\Debug\Gods-0093.pdb
+C:\CStrain2\Gods-0093\Gods-0093\obj\Debug\Gods-0093.exe
+C:\CStrain2\Gods-0093\Gods-0093\obj\Debug\Gods-0093.pdb
